@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @swiadre
-- 👀 I’m interested in programing in c++, python and c#.
-- 🌱 I’m currently learning c++.
-- 💞️ I’m looking to collaborate with someone.
-- 📫 Contact me on email - qbaswiader2805@gmail.com
+
